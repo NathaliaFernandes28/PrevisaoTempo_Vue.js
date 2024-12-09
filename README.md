@@ -89,6 +89,10 @@ Interatividade ao clicar em um card:
 
   ![image](https://github.com/user-attachments/assets/99d75615-836c-4fc8-b38b-467f4aac7548)
 
+   ## Deploy do Projeto
+
+   https://nathaliafernandes28.github.io/PrevisaoTempo_Vue.js/
+
 
   ## Autoria 
   
